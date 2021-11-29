@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nathanduft
-- 👀 I’m interested in building web3 applications, algorithmic trading systems, and Quantitative Analysis.
-- 🌱 I’m currently building a algorithmic trading bot that will be ran on Uniswap V2 via Eth Test Net. The trading algorithim will be mounted with Machine Learning and Technical Analysis conditions. I am seeking a way to reduce risk on the random walk of future price prediction. On the other hand I am looking for arbitrage among centralized and decentralized exchanges. This is all for the purpose of solidifying my machine learning skills, data science, and to better understand the crypto market. 
-- 💞️ I’m looking to collaborate on startup projects that are doing cool things in the crypto domain. I am very excited to find a group of individuals with the same match of drive and curiosity for decentralized cloud servicing mechanisms. I want to build the future through web3 peer to peer ownership. 
+- 👀 Dedicated Blockchain and Quantitative Developer.
+- 🌱 I’m currently building a crypto security solution with a token that I am super passionate about. I recently performed quant on the broad crypto market mainly BTC and ETH with on-chain data and legacy financial metrics. On my off hours I am usually doing crypto research and planning my week ahead.
+- 💞️ I love decentralization and open source composable code. This world is reaching a better place through the internet and I am here to help you build things. Send me an email if you have any questions. 
+- I am a passionate surfer as well and love to charge 30foot waves. 
 - 📫 How to reach me @nathan.duft@gmail.com twitter: nathanduft instagram: nathanduft
 <!---
 nathanduft44/nathanduft44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
