@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nathanduft
-- 👀 Dedicated Blockchain and Quantitative Developer.
+- 👀 FinTech and Blockchain Enthusiast.
 - 🌱 Working hard to become a Blockchain Developer
 - 💞️ DLT and Web3!!!
 - I am a passionate surfer as well and love to charge 30foot waves. 
